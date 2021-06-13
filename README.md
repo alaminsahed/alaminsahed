@@ -3,9 +3,9 @@ I am a CSE graduate and frontend developer from Bangladesh. I love to develop we
 
 
 ### Connect with me
-[<img align="left" alt="website " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/md-al-amin-sahed/]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][https://alaminsahed.medium.com/]
+[<img align="left" alt="website " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]()
+[<img align="left" alt="sahed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/md-al-amin-sahed/)
+[<img align="left" alt="sahed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://alaminsahed.medium.com/)
 
 
 
