@@ -41,6 +41,13 @@ I am a CSE graduate and frontend developer from Bangladesh. I love to develop we
 - [Is passion a myth or not? How to manipulate passion?](https://alaminsahed.medium.com/is-passion-a-myth-or-not-how-to-manipulate-passion-632f3228ec08?source=rss-37405840fc06------2)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
+<br/>
+
+---
+![Sahed's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminsahed&count_private=true)
+
+
 
 
 
