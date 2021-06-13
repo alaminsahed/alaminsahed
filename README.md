@@ -45,7 +45,7 @@ I am a CSE graduate and frontend developer from Bangladesh. I love to develop we
 <br/>
 
 ---
-![Sahed's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminsahed&count_private=true&show_icons=true&title_color=#1a0000)
+![Sahed's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminsahed&count_private=true&show_icons=true&title_color=rgb(255, 0, 0))
 
 
 
