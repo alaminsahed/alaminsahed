@@ -3,7 +3,8 @@ I am a CSE graduate and frontend developer from Bangladesh. I love to develop we
 
 
 ### Connect with me
-[<img align="left" alt="website " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]()
+<!-- [<img align="left" alt="website " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]() -->
+[<img align="left" alt="website " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:alaminsahed101@gmail.com)
 [<img align="left" alt="sahed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/md-al-amin-sahed/)
 [<img align="left" alt="sahed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://alaminsahed.medium.com/)
 
@@ -26,6 +27,18 @@ I am a CSE graduate and frontend developer from Bangladesh. I love to develop we
 <img align="left" alt="mongodb " width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="mysql " width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="firebase" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+### :books: Latest blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 
