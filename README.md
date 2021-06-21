@@ -37,6 +37,7 @@ I am a CSE graduate and frontend developer from Bangladesh. I love to develop fr
 
 ### :books: Latest blogs
 <!-- BLOG-POST-LIST:START -->
+- [Underrated hooks in react (useRef)](https://alaminsahed.medium.com/underrated-hooks-in-react-useref-1c6197985cc4?source=rss-37405840fc06------2)
 - [Higher Order Component in React](https://alaminsahed.medium.com/higher-order-component-in-react-890817261ccc?source=rss-37405840fc06------2)
 - [Is passion a myth or not? How to manipulate passion?](https://alaminsahed.medium.com/is-passion-a-myth-or-not-how-to-manipulate-passion-632f3228ec08?source=rss-37405840fc06------2)
 <!-- BLOG-POST-LIST:END -->
