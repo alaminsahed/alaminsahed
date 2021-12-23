@@ -37,11 +37,11 @@ I am a CSE graduate and frontend developer from Bangladesh. I love to develop fr
 
 ### :books: Latest blogs
 <!-- BLOG-POST-LIST:START -->
+- [Google Authentication using Hasura Backend Plus](https://alaminsahed.medium.com/google-authentication-using-hasura-backend-plus-2eb20c346968?source=rss-37405840fc06------2)
 - [Hosting MERN Project &lpar;Heroku &amp; Netlify&rpar;](https://alaminsahed.medium.com/hosting-mern-project-heroku-netlify-5a354b675d23?source=rss-37405840fc06------2)
 - [Most complex hook in react &lpar;useReducer&rpar;](https://alaminsahed.medium.com/most-complex-hook-in-react-usereducer-3aaf2eaf9f40?source=rss-37405840fc06------2)
 - [Underrated hooks in react &lpar;useRef&rpar;](https://alaminsahed.medium.com/underrated-hooks-in-react-useref-1c6197985cc4?source=rss-37405840fc06------2)
 - [Higher Order Component in React](https://alaminsahed.medium.com/higher-order-component-in-react-890817261ccc?source=rss-37405840fc06------2)
-- [Is passion a myth or not? How to manipulate passion?](https://alaminsahed.medium.com/is-passion-a-myth-or-not-how-to-manipulate-passion-632f3228ec08?source=rss-37405840fc06------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
