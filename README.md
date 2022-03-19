@@ -36,6 +36,7 @@ I am a CSE graduate and frontend developer from Bangladesh. I love to develop fr
 ---
 
 ### :books: Latest blogs
+- [Checkout my personal blog](https://sahedthought.hashnode.dev/)
 <!-- BLOG-POST-LIST:START -->
 - [Hoisting in JavaScript A-Z](https://alaminsahed.medium.com/hoisting-in-javascript-a-z-1f5c199ebe9c?source=rss-37405840fc06------2)
 - [Google Authentication using Hasura Backend Plus](https://alaminsahed.medium.com/google-authentication-using-hasura-backend-plus-2eb20c346968?source=rss-37405840fc06------2)
